@@ -1,4 +1,23 @@
 <center> tiger compiler
+
+
+===
+Final Goal
+===
+
+该项目实现了如下目标：
+
+- Lexer（词法分析）
+- Parser（语法分析）
+- AST (语法树)
+- Elaborator(装饰器）：类型检查,继承检查等
+- Codegen(代码生成)：可以生成Java字节码，C，Go，XML
+- GC(垃圾回收)：实现简单的复制回收
+
+------------------------
+
+
+
 ===
 Lab4
 ===
